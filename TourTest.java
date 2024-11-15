@@ -1,6 +1,4 @@
 /**
- * Name: Angelina Cheng
- * Pennkey: angcheng
  * Execution: N/A - JUnit testing
  *
  * Description: will test the methods written in Tour.java
