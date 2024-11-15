@@ -1,6 +1,4 @@
 /**
- * Name: Angelina Cheng
- * Pennkey: angcheng
  * Execution: java Tour
  *
  * Description: will print the points a, b, c, and d in String form, and draw the
